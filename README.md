@@ -17,9 +17,10 @@ A voice announcement function in _voicePrompt.py_ announces the identified traff
 7. pip install cv2
 8. pip install h5py
 9. pip install pyttsx3
-\
+`````
 The project is focused on training and classifying traffic signs using Convolutional Neural Networks (CNNs). The classification is done in real-time using a simple webcam and OpenCV library. CNNs are known for their ability to effectively generalize and classify data with high accuracy, making them suitable for this task.\
 \
 The project involves training the CNN model using TensorFlow and Keras frameworks. The training data consists of over 35,000 images of 43 different classes of traffic signs. The goal is to build a model that can accurately classify traffic signs based on their visual features.\
 \
 Overall, the project aims to empower individuals to develop robust traffic sign classification models using CNNs and provides insights into the training process and data requirements for achieving accurate results.\
+`````
