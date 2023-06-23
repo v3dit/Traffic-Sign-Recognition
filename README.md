@@ -8,7 +8,7 @@ Note: There have been a number of changes made to the project; it is not an exac
 \
 \
 A voice announcement function in _voicePrompt.py_ announces the identified traffic song.
-\
+
 # Download the following Modules and Packages
 `````
 pip install numpy 
